@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fifth Intersection",
+      "hasCanvas": false,
+      "bodyTextLen": 2844,
+      "bodyTextHash": "c5525defa26ba0f589ea14e2355837933a9e01c2f81295dfd31e3651ddd351b9",
+      "bodyTextPrefix": "MOD 12 · TWIN PHASE LOCK Fifth Intersection The only prime that ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fifth Intersection",
+      "hasCanvas": false,
+      "bodyTextLen": 2844,
+      "bodyTextHash": "c5525defa26ba0f589ea14e2355837933a9e01c2f81295dfd31e3651ddd351b9",
+      "bodyTextPrefix": "MOD 12 · TWIN PHASE LOCK Fifth Intersection The only prime that ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
