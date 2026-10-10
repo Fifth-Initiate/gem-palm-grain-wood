@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { PhaseFigure } from "@/components/phase-figure";
 import { Spectrograph } from "@/components/spectrograph";
+import { CrystalRing } from "@/components/crystal-ring";
 import {
   COMMA_CENTS,
   RAIL_LIMIT,
@@ -304,6 +305,8 @@ export function Instrument() {
           <span />
         </div>
       </section>
+
+      <CrystalRing />
 
       <section className="mt-8 grid gap-6 sm:grid-cols-2">
         <Reading title="Rails">
